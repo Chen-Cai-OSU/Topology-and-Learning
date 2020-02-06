@@ -23,12 +23,26 @@ A biased list of papar on the application of topology in machine learning. Feel 
 1. **Topology and data**
 *Gunnar Carlsson* [paper](https://www.ams.org/journals/bull/2009-46-02/S0273-0979-09-01249-X/)
 
+1. **Elementary Applied Topology**
+*Robert Ghrist* [book](https://www.math.upenn.edu/~ghrist/notes.html)
+
+1. **A roadmap for the computation of persistent homology**
+*Nina Otter, Mason A. Porter, Ulrike Tillmann, Peter Grindrod, Heather A. Harrington* [paper](https://arxiv.org/abs/1506.08903)
+
 
 ### [Persistence Diagram for ML](#content)
 
 #### [Vector method](#content)
-**A persistence landscapes toolbox for topological statistics**
-*Peter Bubenik, Pawel Dlotko* [paper](https://arxiv.org/abs/1501.00179)
+1. **A persistence landscapes toolbox for topological statistics**
+   *Peter Bubenik, Pawel Dlotko* [paper](https://arxiv.org/abs/1501.00179)
+
+1. **Stable topological signatures for points on 3D shapes**
+*Mathieu Carrière, Steve Yann Oudot, Maks Ovsjanikov* Computer Graphics Forum 2015  [paper](https://dl.acm.org/doi/10.1111/cgf.12692)
+
+1. **Stochastic Convergence of Persistence Landscapes and Silhouettes**
+*Frédéric Chazal, Brittany Terese Fasy, Fabrizio Lecci, Alessandro Rinaldo, Larry Wasserman* SoCG 2014 [paper](https://arxiv.org/abs/1312.0308)
+
+
 
 #### [Kernel method](#content)
 
@@ -36,7 +50,7 @@ A biased list of papar on the application of topology in machine learning. Feel 
 *Mathieu Carriere and Marco Cuturi and Steve Oudot*  ICML 2017 [paper](https://arxiv.org/abs/1706.03358)
 
 1. **Persistence weighted Gaussian kernel for topological data analysis**
-*Genki Kusano, Yasuaki Hiraoka and Kenji Fukumizu* ICML 2016 [paper][https://arxiv.org/abs/1601.01741]
+*Genki Kusano, Yasuaki Hiraoka and Kenji Fukumizu* ICML 2016 [paper](https://arxiv.org/abs/1601.01741)
 
 1. **A stable multi-scale kernel for topological machine learning**
 *Jan Reininghaus, Stefan Huber, Ulrich Bauer, Roland Kwitt* CVPR 2015 [paper](https://arxiv.org/abs/1412.6821)
