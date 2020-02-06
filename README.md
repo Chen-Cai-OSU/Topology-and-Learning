@@ -11,6 +11,8 @@ A biased list of papar on the application of topology in machine learning. Feel 
 3. [Applications](#applications)
     1. [Graph Classification ](#graph-classification)
     1. [Neural Network](#neural-network)
+    1. [Natural Language Processing](#natural-language-processing)
+    1. [Vision](#vision)
 
 ### [Survey Papers](#content)
 
@@ -106,7 +108,11 @@ Persistent Homology**
 1. **Topology of deep neural networks**
 *Gregory Naitzat, Andrey Zhitnikov, Lek-Heng Lim* [paper](https://openreview.net/forum?id=SkgBfaNKPr)
 
-#### [Others](#content)
+#### [Natural Language Processing](#content)
+1. **Does the Geometry of Word Embeddings Help Document Classification? A Case Study on Persistent Homology Based Representations**
+*Paul Michel, Abhilasha Ravichander, Shruti Rijhwani* [paper](https://arxiv.org/abs/1705.10900)
+
+#### [Vision](#content)
 1. **Topology-Preserving Deep Image Segmentation**
 *Xiaoling Hu, Li Fuxin, Dimitris Samaras, Chao Chen* NIPS 2019 [paper](https://arxiv.org/abs/1906.05404)
 
