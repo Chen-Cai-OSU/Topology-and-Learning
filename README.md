@@ -5,7 +5,7 @@ A biased list of papar on the application of topology in machine learning. Feel 
 ### Content
 1. [Survey Papers/Books ](#survey-papers)
 2. [Persistence Diagram for ML ](#models)
-		1. [Vector method](#vector-method)
+    1. [Vector method](#kernel-method)
     1. [Kernel method](#kernel-method)
     1. [Others](#Others)
 3. [Applications](#applications)
@@ -21,8 +21,7 @@ A biased list of papar on the application of topology in machine learning. Feel 
   *Steve Y. Oudot* [book](https://geometrica.saclay.inria.fr/team/Steve.Oudot/books/o-pt-fqrtda-15/surv-209.pdf)
 
 1. **Topology and data**
-
-  *Gunnar Carlsson* [paper](https://www.ams.org/journals/bull/2009-46-02/S0273-0979-09-01249-X/)
+*Gunnar Carlsson* [paper](https://www.ams.org/journals/bull/2009-46-02/S0273-0979-09-01249-X/)
 
 
 ### [Persistence Diagram for ML](#content)
@@ -33,7 +32,7 @@ A biased list of papar on the application of topology in machine learning. Feel 
 
 #### [Kernel method](#content)
 
-1. **Sliced wasserstein kernel for persistence diagrams **
+1. **Sliced wasserstein kernel for persistence diagrams**
 *Mathieu Carriere and Marco Cuturi and Steve Oudot*  ICML 2017 [paper](https://arxiv.org/abs/1706.03358)
 
 1. **Persistence weighted Gaussian kernel for topological data analysis**
@@ -87,7 +86,8 @@ Persistent Homology**
 1. **A Topological Regularizer for Classifiers via Persistent Homology**
 *Chao Chen, Xiuyan Ni, Qinxun Bai, Yusu Wang* AISTATS 2019 [paper](https://arxiv.org/abs/1806.10714)
 
-1. **Connectivity-Optimized Representation Learning via Persistent Homology** *Christoph Hofer, Roland Kwitt, Marc Niethammer, Mandar Dixit * ICML 2019 [paper](http://proceedings.mlr.press/v97/hofer19a.html)
+1. **Connectivity-Optimized Representation Learning via Persistent Homology**
+*Christoph Hofer, Roland Kwitt, Marc Niethammer, Mandar Dixit* ICML 2019 [paper](http://proceedings.mlr.press/v97/hofer19a.html)
 
 1. **Topology of deep neural networks**
 *Gregory Naitzat, Andrey Zhitnikov, Lek-Heng Lim* [paper](https://openreview.net/forum?id=SkgBfaNKPr)
@@ -99,5 +99,5 @@ Persistent Homology**
 
 ### [Event](#content)
 
-**AI Institute “Geometry of Deep Learning” 2019**
-[Link](https://www.microsoft.com/en-us/research/event/ai-institute-2019/)
+1. **AI Institute “Geometry of Deep Learning” 2019**
+   [Link](https://www.microsoft.com/en-us/research/event/ai-institute-2019/)
