@@ -37,14 +37,13 @@ A biased list of papar on the application of topology in machine learning. Feel 
 #### [Vector method](#content)
 1. **A persistence landscapes toolbox for topological statistics**
    *Peter Bubenik, Pawel Dlotko* [paper](https://arxiv.org/abs/1501.00179)
-
 1. **Stable topological signatures for points on 3D shapes**
 *Mathieu Carrière, Steve Yann Oudot, Maks Ovsjanikov* Computer Graphics Forum 2015  [paper](https://dl.acm.org/doi/10.1111/cgf.12692)
-
 1. **Stochastic Convergence of Persistence Landscapes and Silhouettes**
 *Frédéric Chazal, Brittany Terese Fasy, Fabrizio Lecci, Alessandro Rinaldo, Larry Wasserman* SoCG 2014 [paper](https://arxiv.org/abs/1312.0308)
-
-
+1. **Persistence Images: A Stable Vector Representation of
+  Persistent Homology**
+  *Henry Adams, Sofya Chepushtanova, Tegan Emerson, Eric Hanson, Michael Kirby, Francis Motta, Rachel Neville, Chris Peterson, Patrick Shipman, and Lori Ziegelmeier* JMLR 2017 [paper](http://www.jmlr.org/papers/volume18/16-337/16-337.pdf)
 
 #### [Kernel method](#content)
 
@@ -57,19 +56,19 @@ A biased list of papar on the application of topology in machine learning. Feel 
 1. **A stable multi-scale kernel for topological machine learning**
 *Jan Reininghaus, Stefan Huber, Ulrich Bauer, Roland Kwitt* CVPR 2015 [paper](https://arxiv.org/abs/1412.6821)
 
-1. **Persistence Images: A Stable Vector Representation of
-Persistent Homology**
-*Henry Adams, Sofya Chepushtanova, Tegan Emerson, Eric Hanson, Michael Kirby, Francis Motta, Rachel Neville, Chris Peterson, Patrick Shipman, and Lori Ziegelmeier* JMLR 2017 [paper](http://www.jmlr.org/papers/volume18/16-337/16-337.pdf)
-
 1. **Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams**
-*Tam Le, Makoto Yamada* NIPS 2018 [paper](https://arxiv.org/abs/1802.03569)
+*Tam Le, Makoto Yamada* NeurIPS 2018 [paper](https://arxiv.org/abs/1802.03569)
+
+1. **On the Metric Distortion of Embedding Persistence Diagrams into separable Hilbert spaces**
+
+  *Mathieu Carriere, Ulrich Bauer* SoCG 2019 [paper](https://arxiv.org/abs/1806.06924)
 
 1. **Learning metrics for persistence-based summaries and applications for graph classification**
-*Qi Zhao, Yusu Wang* NIPS 2019 [paper](https://arxiv.org/abs/1904.12189)
+*Qi Zhao, Yusu Wang* NeurIPS 2019 [paper](https://arxiv.org/abs/1904.12189)
 
 #### [Others](#content)
 1. **PersLay: A Neural Network Layer for Persistence Diagrams and New Graph Topological Signatures**
-*Mathieu Carrière, Frédéric Chazal, Yuichi Ike, Théo Lacombe, Martin Royer, Yuhei Umeda* AISTATS 2019 [paper](https://arxiv.org/abs/1904.09378)
+*Mathieu Carrière, Frédéric Chazal, Yuichi Ike, Théo Lacombe, Martin Royer, Yuhei Umeda* AISTATS 2010 [paper](https://arxiv.org/abs/1904.09378)
 
 1. **Understanding the Power of Persistence Pairing via Permutation Test**
 *Chen Cai, Yusu Wang* Arxiv 2020 [paper](https://arxiv.org/abs/2001.06058)
@@ -78,7 +77,7 @@ Persistent Homology**
 #### [Graph Classification](#content)
 
 1. **Deep Learning with Topological Signatures**
-*Christoph Hofer, Roland Kwitt, Marc Niethammer, Andreas Uhl* NIPS 2018 [paper](https://arxiv.org/abs/1707.04041)
+*Christoph Hofer, Roland Kwitt, Marc Niethammer, Andreas Uhl* NeurIPS 2018 [paper](https://arxiv.org/abs/1707.04041)
 
 1. **A Persistent Weisfeiler-Lehman Procedure for Graph Classification**
 *Bastian Rieck, Christian Bock, Karsten Borgwardt* ICML 2019 [paper](http://proceedings.mlr.press/v97/rieck19a.html)
@@ -114,7 +113,7 @@ Persistent Homology**
 
 #### [Vision](#content)
 1. **Topology-Preserving Deep Image Segmentation**
-*Xiaoling Hu, Li Fuxin, Dimitris Samaras, Chao Chen* NIPS 2019 [paper](https://arxiv.org/abs/1906.05404)
+*Xiaoling Hu, Li Fuxin, Dimitris Samaras, Chao Chen* NeurIPS 2019 [paper](https://arxiv.org/abs/1906.05404)
 
 
 ### [Event](#content)
